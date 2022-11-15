@@ -1,0 +1,6 @@
+build/
+install/
+log/
+.venvs/**
+simulator/ar-control
+*.txt
